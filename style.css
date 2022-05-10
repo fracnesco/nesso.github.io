@@ -1,0 +1,28 @@
+body {
+  background-color: #474056;
+  color: #b9c6ae;
+}
+
+p {
+font-size: 22;
+}
+
+
+/* create a class */
+.info {
+  color: #C4F7A1;
+  font-size: 10;
+}
+
+/* create an ID, use only on one item */
+#highlight {
+  font-size: 8;
+  color: #D9E5D6;
+}
+
+button {
+  height: 200;
+  width: 200;
+  color: #b9c6ae;
+  background-color: #8a95a5;
+}
